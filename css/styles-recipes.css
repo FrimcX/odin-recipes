@@ -1,0 +1,38 @@
+body{
+    font-family: monospace;
+    background-color: #FFF6DA;
+}
+
+h1 {
+    text-align: center;
+    background-color: #889E73AA;
+    color: #A94A4A;
+    height: 65px;
+    font-size: 48px;
+}
+
+h2 {
+    background-color: #F4D793;
+    font-size: 32px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.back-to-main {
+    font-size: 18px;
+    text-align: end;
+}
+
+h3 {
+    background-color: #F4D793;
+    text-align: center;
+    font-size: 22px;
+}
+
+ul, ol {
+    background-color: #F4D793;
+    text-align: justify;
+}
