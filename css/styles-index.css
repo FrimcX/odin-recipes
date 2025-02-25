@@ -1,23 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
+
 body{
     font-family: monospace;
     background-color: #FFF6DA;
 }
 
-h1 {
-    text-align: center;
+.header {
     background-color: #889E73AA;
+    text-align: center;
+    padding: 8px 0 0 0 ;
+}
+
+img {
+    display: inline-block;
+    
+}
+
+h1 {
+    display: inline-block;
+    text-align: center;
     color: #A94A4A;
     height: 65px;
     font-size: 48px;
+    margin: 20px;
 }
 
 h2 {
     background-color: #F4D793;
     font-size: 32px;
+    padding: 10px;
 }
 
 ul {
     background-color: #F4D793;
+    padding: 20px;
+    padding-left: 30px;
 }
 
 a {
